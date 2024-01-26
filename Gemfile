@@ -1,10 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'ruby-pg-extras', '5.3.1'
-gem 'rails-pg-extras', '5.3.1'
-gem 'rb-inotify', '0.10.1'
-gem 'listen', '3.8.0'
-gem 'sass-listen', '4.0.0'
 gem 'sass', '3.7.4'
 gem 'spring-watcher-listen', '2.1.0'
 gem 'sass-rails', '5.1.0'
