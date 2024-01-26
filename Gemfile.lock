@@ -247,6 +247,7 @@ PLATFORMS
 
 DEPENDENCIES
   google-cloud-storage (= 1.46.0)
+  sass (= 3.7.4)
   sass-rails (= 5.1.0)
   spring-watcher-listen (= 2.1.0)
   stackdriver (= 0.21.1)
