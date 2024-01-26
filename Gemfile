@@ -1,13 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'any_login', '1.5.3'
-gem 'olive_branch', '4.0.1'
-gem 'react_on_rails', '13.4.0'
-gem 'devise', '4.9.3'
-gem 'solargraph', '0.50.0'
-gem 'solargraph-rails', '1.1.0'
-gem 'googleapis-common-protos-types', '1.10.0'
-gem 'grpc', '1.60.0'
 gem 'ruby-pg-extras', '5.3.1'
 gem 'rails-pg-extras', '5.3.1'
 gem 'rb-inotify', '0.10.1'
