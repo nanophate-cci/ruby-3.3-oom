@@ -10,8 +10,6 @@ jobs:
         type: string
     docker:
       - image: cimg/ruby:<< parameters.ruby-version >>
-      envionrment:
-        - BUNDLE_JOBS=6
     steps:
       - checkout
       - run:
