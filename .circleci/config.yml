@@ -10,6 +10,7 @@ jobs:
         type: string
     docker:
       - image: cimg/ruby:<< parameters.ruby-version >>
+    resource_class: medium
     steps:
       - checkout
       - run:
