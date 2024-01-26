@@ -72,6 +72,9 @@ GEM
       google-cloud-core (~> 1.6)
       googleauth (>= 0.16.2, < 2.a)
       mini_mime (~> 1.0)
+    google-protobuf (3.25.2)
+    googleapis-common-protos-types (1.10.0)
+      google-protobuf (~> 3.18)
     googleauth (1.9.2)
       faraday (>= 1.0, < 3.a)
       google-cloud-env (~> 2.1)
@@ -193,6 +196,7 @@ PLATFORMS
 
 DEPENDENCIES
   google-cloud-storage (= 1.47.0)
+  googleapis-common-protos-types (= 1.10.0)
   sass (= 3.7.4)
   sass-rails (= 5.1.0)
   spring-watcher-listen (= 2.1.0)
